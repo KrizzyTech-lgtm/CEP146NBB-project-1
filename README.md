@@ -1,4 +1,4 @@
-# AI-Powered Cybersecurity
+# CEP146NBB project 1
 
 ## Team Members
 - Ashton Bourne
