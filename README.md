@@ -10,9 +10,9 @@ AI-Powered Cybersecurity
 
 ## Project Files
 - Research notes
-- Presentation script
-- Slides
+- Powerpoint
 - Media assets
+
 
 ## Final Video
 YouTube Link: [https://youtu.be/5xzgARqWErk]
