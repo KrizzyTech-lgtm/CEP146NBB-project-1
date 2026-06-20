@@ -1,1 +1,18 @@
-# CEP146NBB-project-1
+# AI-Powered Cybersecurity
+
+## Team Members
+- Ashton Bourne
+- Oak Soe Paing
+- Juan Camilo Ramirez Jaramillo
+
+## Topic
+AI-Powered Cybersecurity
+
+## Project Files
+- Research notes
+- Presentation script
+- Slides
+- Media assets
+
+## Final Video
+YouTube Link: [Add Link Here]
