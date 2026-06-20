@@ -15,4 +15,4 @@ AI-Powered Cybersecurity
 - Media assets
 
 ## Final Video
-YouTube Link: [Add Link Here]
+YouTube Link: [https://youtu.be/5xzgARqWErk]
